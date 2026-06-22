@@ -4,11 +4,12 @@ Jestem uczniem technikum i obecnie skupiam się na nauce baz danych.
 
 ### 🛠 Czym się zajmuję i czego się uczę:
 
-* **Bazy danych:** To mój główny cel. Uczę się projektowania schematów, pisania zapytań SQL, które wydobywają i analizują dane, oraz zarządzania nimi.
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" height="20" /> **Bazy danych:** To mój główny cel. Uczę się projektowania schematów, pisania zapytań SQL, które wydobywają i analizują dane, oraz zarządzania nimi.
+
 * **Technologie, które eksploruję:**
-    * **SQL:** MySQL (moje główne narzędzie pracy).
-    * **JSON:** Zacząłem naukę niedawno.
-    * **NoSQL:** Wprowadzam się w temat MongoDB, aby poznać inne podejście do przechowywania informacji.
+    * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" height="20" /> **SQL:** MySQL (moje główne narzędzie pracy).
+    * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="20" height="20" /> **JSON:** Zacząłem naukę niedawno.
+    * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20" height="20" /> **NoSQL:** Wprowadzam się w temat MongoDB, aby poznać inne podejście do przechowywania informacji.
 
 ### 🚀 Moje cele na najbliższy czas:
 
