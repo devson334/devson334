@@ -1,16 +1,20 @@
-## Hi there 👋
+# Cześć! 👋 Jestem Devson
 
-<!--
-**devson334/devson334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem uczniem technikum, który stawia pierwsze kroki w świecie IT. Moim głównym zainteresowaniem są **bazy danych**, a odskocznią od kodu jest **astronomia**.
 
-Here are some ideas to get you started:
+### 🛠 Moje technologie:
+* **Bazy danych:** SQL (MySQL), podstawy NoSQL (MongoDB).
+* **Inne:** JSON.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Nad czym teraz pracuję:
+Dłubię przy projektach bazodanowych, aby lepiej zrozumieć relacje między tabelami. Wszystko, co tworzę, znajdziesz w moich repozytoriach!
+
+### 🔭 O mnie:
+Jestem osobą otwartą na naukę, nowe wyzwania i konstruktywną krytykę. Jeśli chcesz pogadać o danych, bazach lub kosmosie – zapraszam do kontaktu!
+
+---
+*Dopiero zaczynam moją przygodę z bazami danych i ciągle się uczę.*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devson334&show_icons=true&theme=dark" alt="Devson's stats" />
+</div>
