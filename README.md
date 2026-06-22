@@ -1,19 +1,32 @@
-# Cześć! 👋 Jestem Devson
+# Cześć! 👋
 
-Jestem uczniem technikum, który stawia pierwsze kroki w świecie IT. Moim głównym zainteresowaniem są **bazy danych**, a odskocznią od kodu jest **astronomia**.
+Jestem uczniem technikum i obecnie skupiam się na nauce baz danych.
 
-### 🛠 Moje technologie:
-* **Bazy danych:** SQL (MySQL), podstawy NoSQL (MongoDB).
-* **Inne:** JSON.
+### 🛠 Czym się zajmuję i czego się uczę:
 
-### 🚀 Nad czym teraz pracuję:
-Dłubię przy projektach bazodanowych, aby lepiej zrozumieć relacje między tabelami. Wszystko, co tworzę, znajdziesz w moich repozytoriach!
+* **Bazy danych:** To mój główny cel. Uczę się projektowania schematów, pisania zapytań SQL, które wydobywają i analizują dane, oraz zarządzania nimi.
+* **Technologie, które eksploruję:**
+    * **SQL:** MySQL (moje główne narzędzie pracy).
+    * **JSON:** Zacząłem naukę niedawno.
+    * **NoSQL:** Wprowadzam się w temat MongoDB, aby poznać inne podejście do przechowywania informacji.
 
-### 🔭 O mnie:
-Jestem osobą otwartą na naukę, nowe wyzwania i konstruktywną krytykę. Jeśli chcesz pogadać o danych, bazach lub kosmosie – zapraszam do kontaktu!
+### 🚀 Moje cele na najbliższy czas:
+
+* Opanowanie zaawansowanych zapytań SQL.
+* Zrozumienie różnic między różnymi silnikami baz danych.
+* Budowanie projektów, które realnie rozwiązują problemy z przechowywaniem danych.
+
+### 💾 Aktualne projekty:
+
+Obecnie pracuję nad prostymi bazami danych, aby w praktyce sprawdzić, jak działają relacje między tabelami. Każdy projekt to dla mnie okazja do nauki czegoś nowego.
+
+### 💬 O mnie:
+
+Poza samymi bazami danych interesuję się astronomią. Jestem osobą otwartą na naukę oraz rady wobec moich projektów.
 
 ---
 *Dopiero zaczynam moją przygodę z bazami danych i ciągle się uczę.*
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devson334&show_icons=true&theme=dark" alt="Devson's stats" />
